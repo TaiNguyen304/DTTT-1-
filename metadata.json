@@ -1,0 +1,5 @@
+{
+  "name": "Contest Controller",
+  "description": "A real-time contest management system using Supabase with Host and Contestant interfaces.",
+  "requestFramePermissions": []
+}
